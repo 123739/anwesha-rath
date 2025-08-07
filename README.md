@@ -24,7 +24,7 @@ When I'm not simulating circuits in Proteus or coding in Embedded C, you'll find
 
 ---
 
-## 🔧 Tools & Tech
+## Tools & Tech
 
 | Area | Tools / Languages |
 |------|-------------------|
@@ -36,17 +36,17 @@ When I'm not simulating circuits in Proteus or coding in Embedded C, you'll find
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
-- 🏆 99.2% in Class X | 95.8% in Class XII
-- 🎓 Current CGPA: 8.78 (Electrical Engineering, OUTR)
-- 🎯 Completed Embedded Systems certification at **CTTC Bhubaneswar**
-- ✨ Recognized for accessibility-focused innovation at the institutional level
-- 📖 Running a personal writing page: [@_lily.white.musings_](https://instagram.com/_lily.white.musings_)
+- 99.2% in Class X | 95.8% in Class XII
+- Current CGPA: 8.78 (Electrical Engineering, OUTR)
+- Completed Embedded Systems certification at **CTTC Bhubaneswar**
+- Recognized for accessibility-focused innovation at the institutional level
+- Running a personal writing page: [@_lily.white.musings_](https://instagram.com/_lily.white.musings_)
 
 ---
 
-## 📌 What I’m Looking For
+## What I’m Looking For
 
 I’m always eager to:
 - Collaborate on **socially relevant tech projects**
@@ -66,4 +66,4 @@ I’m always eager to:
 
 > “I don’t fit into boxes — I wire them, write about them, and then wonder if they’re even real.”
 
-— Anwesha 🌸
+— Anwesha 
